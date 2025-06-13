@@ -1,6 +1,6 @@
 # Ramachandran Plot
 
-This project provides tools to analyze protein structures using Ramachandran plots. It calculates torsion angles and visualizes the φ (phi) and ψ (psi) dihedral angles of amino acid residues from PDB files.
+This project provides tools to analyze protein structures using Ramachandran plots. It calculates torsion angles and visualizes the φ and ψ dihedral angles of amino acid residues from PDB files.
 
 ## Features
 
